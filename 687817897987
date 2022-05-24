@@ -1,0 +1,25 @@
+$strings = @()
+$strings += ""
+$strings += @"                                             
+--------HOLA GRUPO MC TUS ARCHIVOS HAN SIDO ENCRIPTADOS--------
+	
+-----------Usted ha ejecutado software malicioso en este equipo-----------
+
+-----------Esto es una prueba controlada, comuniquese por favor con el area de seguridad de la informacion-----------
+
+-----------Si esto fuera un Ransomware real, sus archivos estarian cifrados y perdidos para siempre-----------
+
+-----------NUBOL RANSOMWARE TEAM-----------
+
+-----------b3h2nvk2d6sxoyf.onion----------
+
+-----------Para Recuperar sus datos consigne a la siguiente cuenta de Bitcoin 500 USD-----------
+
+	mhxHNJK55SXfU7cnJ13eBoeXFiqdTsL==
+
+-----------Todos sus archivos seran destruidos-----------
+"@                                                                                                                             
+$strings | Set-Content "~/Desktop/NUBOL-README.txt"
+start "~/Desktop/NUBOL-README.txt"
+start "~/Desktop/NUBOL-README.txt"
+start "~/Desktop/NUBOL-README.txt"
